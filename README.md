@@ -2,7 +2,7 @@
 
 Este é um programa simples em Python para gerenciar produtos em um estoque. Ele permite ao usuário adicionar, listar e atualizar a quantidade de produtos armazenados. O objetivo do programa é demonstrar o uso de dicionários, funções e boas práticas de programação.
 
-Funcionalidades
+<strong>Funcionalidades</strong>
 
 Adicionar Produto
 Permite adicionar um produto ao estoque, informando o nome do produto e a quantidade. Se a entrada for válida, o produto será armazenado no dicionário com seu respectivo nome como chave e a quantidade como valor.
