@@ -1,4 +1,4 @@
-<strong>Gerenciador de Produtos<strong>
+<strong>Gerenciador de Produtos</strong>
 
 Este é um programa simples em Python para gerenciar produtos em um estoque. Ele permite ao usuário adicionar, listar e atualizar a quantidade de produtos armazenados. O objetivo do programa é demonstrar o uso de dicionários, funções e boas práticas de programação.
 
